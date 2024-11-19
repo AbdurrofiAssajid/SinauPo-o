@@ -43,6 +43,7 @@ export const useAuth = () => {
           body: JSON.stringify(formData),
         }
       );
+      // testing
 
       const data: AuthResponse = await response.json();
 
