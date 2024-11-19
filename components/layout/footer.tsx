@@ -29,7 +29,7 @@ export default function Footer() {
               className="mr-2 font-bold"
             />
             <span className="text-2xl text-[28px] font-bold ">
-              SinauPo&#39;o
+              SinauPo&apos;o
             </span>
           </div>
 
@@ -145,7 +145,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-gray-300">
           <p className="text-center font-normal text-gray-300">
-            © 2024 SinauPo&#39;o | All Rights Reserved
+            © 2024 SinauPo&apos;o | All Rights Reserved
           </p>
         </div>
       </div>
