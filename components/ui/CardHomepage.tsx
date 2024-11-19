@@ -9,7 +9,7 @@ interface CardProps {
   participants: string;
   rating: string;
   status: string;
-  src: any;
+  src: string;
 }
 
 const CardHomepage: React.FC<CardProps> = ({
